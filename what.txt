@@ -1,0 +1,7 @@
+This is a microservices tutorial using dotnet 5.0. 
+The tutorial can be found in youtube channel of freeCodeCamp.
+The creator of this tutorial is Julio Casal, thank you for the great explanation of these concepts.
+
+URL: https://youtu.be/CqCDOosvZIk
+
+last 2.30.06
